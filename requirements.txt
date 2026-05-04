@@ -1,0 +1,9 @@
+requests
+requests-oauthlib
+ipykernel
+jupyter
+python-dotenv
+pandas
+openpyxl
+azure-identity
+azure-keyvault-secrets
